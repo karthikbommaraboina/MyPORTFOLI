@@ -1,0 +1,293 @@
+.navee {
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    padding: 6px;
+}
+
+.back {
+    background-color: #191a1d;
+    background-size: cover;
+    height: 100vh;
+}
+
+.jeeny {
+    height: 300px;
+    text-align: center;
+
+}
+
+.jj {
+    color: white;
+}
+
+.kk {
+    color: #4b6cc1;
+}
+
+.ll {
+    color: #9aa5b1;
+}
+
+.btn-karthik {
+    background-color: #4b6cc1;
+    color: white;
+    width: 100px;
+    padding: 6px;
+    border-radius: 8px;
+
+}
+
+.bg {
+    background-color: #323f4b;
+}
+
+.facts {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.aboutme {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.pic {
+    width: 100%;
+}
+
+p {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+.skillsbg {
+    background-color: #1f2933;
+}
+
+.html {
+    height: 64px;
+    width: 64px;
+}
+
+.htmlpara {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.cards {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.bg {
+    background-color: #3e4c59;
+}
+
+.bg2 {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.design {
+    width: 100%;
+}
+
+.read {
+    color: #cced00;
+}
+
+.portfolio {
+    color: #cced00;
+    margin-top: 60px;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Projects {
+    color: white;
+    font-weight: bold;
+}
+
+.web {
+    color: #9aa5b1;
+}
+
+.grand {
+    color: white;
+
+    font-size: 30px;
+}
+
+.web2 {
+    font-size: 24px;
+    color: #9aa5b1;
+}
+
+.bg {
+    background-color: #52606d;
+}
+
+.bg2 {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.design {
+    width: 15%;
+}
+
+.read {
+    color: #cced00;
+}
+
+.portfolio {
+    color: #cced00;
+    margin-top: 60px;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Projects {
+    color: white;
+
+}
+
+.web {
+    color: #9aa5b1;
+}
+
+.grand {
+    color: white;
+
+    font-size: 30px;
+    padding-top: 8px;
+}
+
+.web2 {
+    font-size: 24px;
+    color: #9aa5b1;
+}
+
+.bg7 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.pro7 {
+    background-color: white;
+    width: 80px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.bgz {
+    background-color: #3e4c59;
+}
+
+.bg2z {
+    background-color: #323f4b;
+    border-radius: 8px;
+}
+
+.designz {
+    width: 100%;
+}
+
+.readz {
+    color: #cced00;
+}
+
+.portfolioz {
+    color: #cced00;
+    margin-top: 60px;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.Projectsz {
+    color: white;
+    font-weight: bold;
+}
+
+.webz {
+    color: #9aa5b1;
+}
+
+.grandz {
+    color: white;
+
+    font-size: 30px;
+}
+
+.web2z {
+    font-size: 24px;
+    color: #9aa5b1;
+}
+
+.cardimagez {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.manaz {
+    color: #9aa5b1;
+    text-align: center;
+    font-size: 25px;
+    padding: 28px;
+}
+
+.managerz {
+    color: white;
+    font-size: 30px;
+}
+
+.jenny {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+}
+
+.bg {
+    background-color: #001c32;
+}
+
+.text {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.para {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.ic {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.rw {
+    background-color: #0d2436;
+    text-align: center;
+}
